@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandiphait2004
 - 👀 I’m interested in machine learning, Web Development
 - 🌱 I’m currently learning DSA in c++ and I am also learning  python and OOPS in JAVA
-- 📫 How to reach me : email address:shait1947@gmail.com
+- 📫 How to reach me : email address:sandip.hait.work@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i really dont have any knowladge but i am trying to learn  
 
