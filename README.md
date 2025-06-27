@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sandip.hait.work@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/Download/Resume%20of%20Sandip%20Hait.pdf](file:///D:/Download/Resume%20of%20Sandip%20Hait.pdf)
+- 📄 Know about my experiences (file:///D:/Download/Resume%20of%20Sandip%20Hait.pdf)
 
 - ⚡ Fun fact **💻 The first computer bug was a real bug!**
 
